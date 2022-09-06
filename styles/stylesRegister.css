@@ -1,0 +1,20 @@
+html,
+body {
+  background: #E1DFDF;
+}
+.mostrar {
+    background: red;
+}
+
+.form-color {
+    background: white;
+    border-radius: 10px;
+   }
+
+.rounder {
+  border-radius: 10px;
+}
+
+.color-h3 {
+  color: aliceblue;
+}

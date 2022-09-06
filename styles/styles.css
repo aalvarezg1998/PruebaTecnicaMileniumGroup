@@ -1,0 +1,19 @@
+html,
+body {
+  margin: 10px;
+  background: #353232;
+}
+.color {
+  color: #f5f0ef;
+}
+
+
+.form-color {
+ background: #f5f0ef;
+ border-radius: 10px;
+}
+
+a{
+  color: white;
+}
+
