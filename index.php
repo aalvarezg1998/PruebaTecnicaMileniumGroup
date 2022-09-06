@@ -30,9 +30,8 @@
       <input name="btnlogin" type="submit" class="btn btn-outline-light" value="INGRESAR" ></input>
       </div>
     </form>
-    <h6 class="color text-center">¿Aún no tienes una cuenta? <b><a href="/pruebaTecnica/registerUser.php">Registrate</a></b></h6>
+    <h6 class="color text-center">¿Aún no tienes una cuenta? <b><a href="/pruebaTecnicaMileniumGroup/registerUser.php">Registrate</a></b></h6>
     </div>
-   
   </div>
 </div>
 

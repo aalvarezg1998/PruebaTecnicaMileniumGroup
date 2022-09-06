@@ -66,14 +66,14 @@
                 <td><?php  echo $datos["email"] ?></td>
                 <td>
                   <a 
-                  href="/pruebaTecnica/controllers/aprobarUserController.php?id=<?php  echo $datos["id"] ?>"
+                  href="/pruebaTecnicaMileniumGroup/controllers/aprobarUserController.php?id=<?php  echo $datos["id"] ?>"
                   name="btnregister" 
                   type="submit" 
                   class="btn btn-primary btn-sm" 
                   >Aprobar
                 </a>
                 <a 
-                  href="/pruebaTecnica/controllers/rechazarUserController.php?id=<?php  echo $datos["id"] ?>"
+                  href="/pruebaTecnicaMileniumGroup/controllers/rechazarUserController.php?id=<?php  echo $datos["id"] ?>"
                   name="btnregister" 
                   type="submit" 
                   class="btn btn-danger btn-sm" 
@@ -112,7 +112,7 @@
                 <tr class="text-center">
                 <td><?php  echo $datos1["titulo"] ?></td>
                 <td> <a 
-                  href="/pruebaTecnica/noticia.php?id=<?php  echo $datos1["id_noticia"] ?>"
+                  href="/pruebaTecnicaMileniumGroup/noticia.php?id=<?php  echo $datos1["id_noticia"] ?>"
                   name="btnregister" 
                   type="submit" 
                   class="btn btn-primary btn-sm" 
